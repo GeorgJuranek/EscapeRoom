@@ -1,0 +1,15 @@
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/bin/Debug/net7.0/EscapeRoom
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/bin/Debug/net7.0/EscapeRoom.deps.json
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/bin/Debug/net7.0/EscapeRoom.runtimeconfig.json
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/bin/Debug/net7.0/EscapeRoom.dll
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/bin/Debug/net7.0/EscapeRoom.pdb
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.csproj.AssemblyReference.cache
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.AssemblyInfoInputs.cache
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.AssemblyInfo.cs
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.csproj.CoreCompileInputs.cache
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.dll
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/refint/EscapeRoom.dll
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.pdb
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/EscapeRoom.genruntimeconfig.cache
+/Users/georgjuranek/Desktop/Bewerbung2025/Portfolio_4FSC0PD001_Juranek/1_Escape Room/src/obj/Debug/net7.0/ref/EscapeRoom.dll
